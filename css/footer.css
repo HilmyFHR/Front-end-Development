@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif, 'ArTarumianMHarvats';
+    font-size: 12px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+footer {
+    /* width: 90%; */
+    margin: 0 auto;
+}
+
+.container-footer {
+    background-color: #121212;
+    padding: 1em 0;
+}
+
+.container-footer p {
+    text-align: center;
+    color: white;
+    font-weight: 800;
+}

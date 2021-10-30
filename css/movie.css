@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif, 'ArTarumianMHarvats';
+    font-size: 12px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 30px;
+    font-weight: 1000;
+    text-align: center;
+}
+
+.movie {
+    margin: 0;
+}
+
+.image-box {
+    margin: auto;
+}
+
+.image-box img{
+    width: 20%;
+    margin-top: 50px;
+    margin-left: 40%;
+}
+
+p {
+    margin-left: 22.5%;
+    width: 800px;
+    font-size: 1.5rem;
+}
